@@ -51,4 +51,4 @@ I'm most interested in machine learning.
 - [Biometrics Verification](https://github.com/IlKorshunov/ITMO/blob/main/ml/shad/speech_course/hw3/homework.ipynb)
 - [Java course](https://github.com/IlKorshunov/ITMO/tree/main/java-advanced) 
 
-I will be glad to receive any messages.
+I would be happy to hear from you.
